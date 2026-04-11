@@ -1,6 +1,7 @@
 
 ## 👋 **Kyeongmin Kim (@Kyeongmin0423)**
-> want to be a good engineer
+안녕하세요! 저는 영남대학교에서 컴퓨터공학을 전공하고 있는 김경민입니다. <div> 
+학업과 다양한 활동을 통해 실력을 쌓아 훌륭한 개발자가 되고싶습니다.
 
 ### 📖 **Profile**
 - Republic of Korea (KR)
