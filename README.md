@@ -2,7 +2,8 @@
 ## 👋 **Kyeongmin Kim (@Kyeongmin0423)**
 > want to be a good engineer
 
-### 📖 **College**
+### 📖 **Profile**
+- Republic of Korea (KR)
 - Yeungnam Univ. Computer Engineering
 
 ### 🛠️ **Tech Stack**
@@ -11,10 +12,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
   </div>
 
+### 📑 Career
+- None
+
 ### 🧑‍💻 Contact me
-<div style="text-align: left;"> <a href=mailto:q444qqq@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:q444qqq@gmail.com"> </a>
-         <a href=https://www.instagram.com/k0_minnn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/k0_minnn"> </a>   
-        </div>
+<div style="text-align: left;"> <a href=mailto:q444qqq@gmail.com> 
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:q444qqq@gmail.com"> </a> <a href=https://www.instagram.com/k0_minnn> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/k0_minnn"> </a>
+  </div>
 
 
 <!--
